@@ -3,7 +3,7 @@
 This Power BI project presents an end-to-end analysis of Uber ride data to derive insights into trip patterns, revenue generation, booking behavior, and location-based metrics. The interactive dashboard is structured into three main pages: **Overview Analysis, Time Analysis, and Details Tab**, providing both summarized and granular insights.
 ________________________________________
 ## 1. Overview Analysis
-      ### • KPIs Displayed:
+       • KPIs Displayed:
                         o	Total Bookings: 44.9K
                         o	Total Booking Value: $671.1K
                         o	Average Booking Value: $14.9
@@ -20,7 +20,7 @@ ________________________________________
                         o	Peak usage areas are visible, helping optimize supply chain/logistics.
                         o	Google Pay and Cash are popular payment methods.
 ________________________________________
-**2. Time Analysis**
+## 2. Time Analysis
       **•	KPIs Displayed:**
                         o	Total Bookings: 103.7K
                         o	Total Booking Value: $1.6M
@@ -37,7 +37,7 @@ ________________________________________
                         o	Weekend bookings show a higher volume.
                         o	Useful for time-based pricing strategies and driver allocation.
 ________________________________________
-**3. Details Tab**
+## 3. Details Tab
         **•	Structure:**
                         o	Tabular data display with columns like:
                                   	Trip ID, Pickup Date

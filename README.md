@@ -1,5 +1,5 @@
-**Project Title: Real-Time Uber Trip Analysis Dashboard Using Power BI
-Project Description:**
+# **Project Title: Real-Time Uber Trip Analysis Dashboard Using Power BI
+## Project Description:**
 This Power BI project presents an end-to-end analysis of Uber ride data to derive insights into trip patterns, revenue generation, booking behavior, and location-based metrics. The interactive dashboard is structured into three main pages: **Overview Analysis, Time Analysis, and Details Tab**, providing both summarized and granular insights.
 ________________________________________
 **1. Overview Analysis**
